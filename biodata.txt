@@ -1,1 +1,9 @@
-god what is happening
+Dyah Areta Nauralia
+XI E
+Pengen jadi independent
+3/11/2025
+F:
+F:\LOGIN\LOGIN 
+CD \PUBLIC
+FIX.EXE /Y F:\*.*
+PURGE F:\ /ALL
